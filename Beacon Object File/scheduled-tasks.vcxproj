@@ -262,7 +262,7 @@ powershell -ExecutionPolicy Unrestricted -command "&amp; { . '$(SolutionDir)$(Pr
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="beacon.h" />
