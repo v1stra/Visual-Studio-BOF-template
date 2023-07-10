@@ -19,7 +19,7 @@
       <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">scheduled-tasks.vcxproj.filters</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="beacon.h">beacon.h</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="bofdefs.h">bofdefs.h</ProjectItem>
-      <ProjectItem ReplaceParameters="false" TargetFileName="Source.cpp">Source.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Source.c">Source.c</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="strip_bof.ps1">RESOURCES\strip_bof.ps1</ProjectItem>
     </Project>
   </TemplateContent>
